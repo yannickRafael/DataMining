@@ -1,0 +1,17 @@
+DataFrames do panda
+matplotlib.pyplot
+sklearn
+Keras
+nltk
+gensim
+import re
+import numpy as np
+import os
+from collections import Counter
+import logging
+import time
+import pickle
+import itertools
+
+logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+
